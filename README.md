@@ -16,10 +16,7 @@ This project is a live weather forecasting application that provides up-to-date 
 ## Usage
 1. Run the main application file
 2. Enter the location for which you want to receive weather forecasts.
-3. View the live weather updates displayed on the interface.
-
-## Configuration
-- Modify the `config.py` file to adjust settings such as API keys, default locations, etc.
+3. View the live weather updates displayed on the interface
 
 ## Technologies Used
 - Python
